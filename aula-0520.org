@@ -1,15 +1,6 @@
-#+Title: aula 18 de maio de 2020
+#+Title: aula 20 de maio de 2020
 
-* revisão
-
-1. dúvidas sobre código de números complexos.
-2. arquivos com soluções para os `99 problems`.
-
-* aula
-
-
-- Ex 2.64 (casa)
-- Ex 2.73
+- Ex 2.64 
 
 - message passing
 
@@ -27,3 +18,8 @@
   arguments.
 
   - aritmética: complex, racionais, nat (ordinal)
+
+- Ex 2.77
+- Ex 2.78
+- Ex 2.79
+- Ex 2.80
